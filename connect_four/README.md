@@ -8,4 +8,5 @@ A recreation of the classic tabletop game in Roblox.
 Play on Roblox: [The Hangout](https://www.roblox.com/games/4560236409/The-Hangout)
 
 ### Video Demo
-![Demo](/media/connect_four/demo.mp4)
+https://github.com/celeranis/roblox-snippets/assets/88755128/db8df79d-f44f-4cf9-8b7c-72fa4a2435d7
+
