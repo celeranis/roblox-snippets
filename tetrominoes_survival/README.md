@@ -5,5 +5,6 @@ A fast-paced survival minigame with a Tetris theme.
 Falling pieces use a custom collision detection independent of Roblox's physics engine,
 allowing for countless pieces to fall at once without hurting performance.
 
-## Video Demo
-![Singleplayer Demo](/media/tetrominoes_survival/demo.mp4)
+## Demos
+Watch on YouTube: [Tetrominoes: Survival Demo](https://www.youtube.com/watch?v=8u6lq7-W-yc)
+Play on Roblox: [https://www.roblox.com/games/4560236409/The-Hangout](The Hangout)
