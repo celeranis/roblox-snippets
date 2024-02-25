@@ -7,5 +7,6 @@ and later even speedrun it.
 
 GIBBERT's pathfinding uses a node-based A* pathfinding algorithm implementation by sleitnick.
 
-## Video Demo
-![Singleplayer Demo](/media/gibbert/demo.mp4)
+## Demos
+Play on Roblox: [GIBBERT](https://www.roblox.com/games/4937864693/GIBBERT)
+Watch on YouTube: [GIBBERT Demo](https://youtu.be/qJRkVdg8Nkk)
